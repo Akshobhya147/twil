@@ -1,0 +1,5 @@
+<Response>
+<Say voice="woman">Hello Nivesh.</Say>
+<Pause length="1"/>
+<Say voice="woman">What's up!</Say>
+</Response>
